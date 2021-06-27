@@ -116,10 +116,7 @@ if __name__ == "__main__":
             news2 = webbrowser.open_new("https://www.thehindu.com/latest-news/")
             speak("Here ar some latest headlines from The Times of India & The Hindu.")
             time.sleep(12)
-                
-         
-        
-        
+            
 
         #skill - 6
         elif 'ask' in query:
